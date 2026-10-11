@@ -2,8 +2,8 @@
 
 Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 
-- Autor: (imię)
-- Grupa: (numer)
+- Autor: Michał
+- Grupa: 1
 
 ## Czego się tu nauczę
 1. Pracy w Google Colab
